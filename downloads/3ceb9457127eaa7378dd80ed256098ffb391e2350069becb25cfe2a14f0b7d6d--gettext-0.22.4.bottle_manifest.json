@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a13d803c753ce30b6ef6b31df66e805e33f24af1b5266554715e58695ba90069",
+      "size": 2149,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.arm64_monterey",
+        "sh.brew.bottle.digest": "3dd6b9cc575a927171c63822100d0597a2784258496ee134d670d946f3250a2b",
+        "sh.brew.bottle.size": "10660417",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:806398118fecc428c43ff352dd141f96dc778eafd2c98d5dd3e199fb949d2506",
+      "size": 2141,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.arm64_sonoma",
+        "sh.brew.bottle.digest": "43d00547f4a1036a642c8a41650b483f0054cd239ab4b9ca171563067c8db264",
+        "sh.brew.bottle.size": "10645245",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:c8782e93efc94181103c9c7f24e8e7382c778375a05a21b0244c911e8e71502d",
+      "size": 2146,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.arm64_ventura",
+        "sh.brew.bottle.digest": "c652190aa716f3ca57678562de9cef6380d124f45a799f1f6eb1506a9b05ab1a",
+        "sh.brew.bottle.size": "10660910",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:51b22936f899f402dee765429fa690cd371a50ad3a8adc978a98ec83c93b6b33",
+      "size": 2471,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.monterey",
+        "sh.brew.bottle.digest": "f484781a99d2299b08d46c58f6c296ea9d9dd84b47ccdfbb2510b65c7344ad4a",
+        "sh.brew.bottle.size": "10644184",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/hello-c++-kde/autogen.sh\",\"share/aclocal/build-to-host.m4\",\"share/aclocal/lib-link.m4\",\"share/aclocal/lib-prefix.m4\",\"share/doc/gettext/examples/hello-c++-kde/admin/acinclude.m4.in\",\"share/doc/gettext/examples/hello-c++-kde/admin/libtool.m4.in\",\"share/doc/gettext/examples/hello-c++-qt/m4/qt.m4\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a98e2dab0da52bd5d54c608bbf3663e29dbf611ddd5b3df8b23656ceccbf339a",
+      "size": 2463,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.sonoma",
+        "sh.brew.bottle.digest": "a43af8b39c3661bdc073174c6fffb49a3a1899647a541131a1cd67947807ca79",
+        "sh.brew.bottle.size": "10620895",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/hello-c++-kde/autogen.sh\",\"share/aclocal/build-to-host.m4\",\"share/aclocal/lib-link.m4\",\"share/aclocal/lib-prefix.m4\",\"share/doc/gettext/examples/hello-c++-kde/admin/acinclude.m4.in\",\"share/doc/gettext/examples/hello-c++-kde/admin/libtool.m4.in\",\"share/doc/gettext/examples/hello-c++-qt/m4/qt.m4\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:8695f809764b600fa144c0e4b1854a7d902791ee22ff3fe068b01622a5680ccc",
+      "size": 2468,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.ventura",
+        "sh.brew.bottle.digest": "1fd9c7c6577705d3a1ce1c9064b9a853a930b63ee8984e07997758dd2c233448",
+        "sh.brew.bottle.size": "10633686",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.20-52-gad1bb17\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/hello-c++-kde/autogen.sh\",\"share/aclocal/build-to-host.m4\",\"share/aclocal/lib-link.m4\",\"share/aclocal/lib-prefix.m4\",\"share/doc/gettext/examples/hello-c++-kde/admin/acinclude.m4.in\",\"share/doc/gettext/examples/hello-c++-kde/admin/libtool.m4.in\",\"share/doc/gettext/examples/hello-c++-qt/m4/qt.m4\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ddffe2222f63fe722b09067f47ed8e86894583b908e621f3e78ab2fb125deb2b",
+      "size": 2814,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.22.4.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "dc631c067b99d2620dfa6994b89bd6435ab95d4f1e5f19e00eca290df8c3bc3c",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "11099929",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.22-15-g8b2af53\",\"changed_files\":[\"bin/autopoint\",\"bin/gettextize\",\"lib/gettext/user-email\",\"share/doc/gettext/examples/installpaths\",\"share/man/man1/gettext.1\",\"share/man/man1/ngettext.1\"],\"source_modified_time\":1700426410,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"icu4c\",\"version\":\"73.2\",\"revision\":0,\"pkg_version\":\"73.2\",\"declared_directly\":false},{\"full_name\":\"ncurses\",\"version\":\"6.4\",\"revision\":0,\"pkg_version\":\"6.4\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.7\",\"revision\":0,\"pkg_version\":\"8.2.7\",\"declared_directly\":false},{\"full_name\":\"zlib\",\"version\":\"1.3\",\"revision\":0,\"pkg_version\":\"1.3\",\"declared_directly\":false},{\"full_name\":\"libxml2\",\"version\":\"2.12.1\",\"revision\":0,\"pkg_version\":\"2.12.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-11-30",
+    "org.opencontainers.image.description": "GNU internationalization (i18n) and localization (l10n) library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/gettext",
+    "org.opencontainers.image.license": "GPL-3.0-or-later",
+    "org.opencontainers.image.ref.name": "0.22.4",
+    "org.opencontainers.image.revision": "ba40b20b6117a5186e5d1748e5e582a5941da60d",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/ba40b20b6117a5186e5d1748e5e582a5941da60d/Formula/g/gettext.rb",
+    "org.opencontainers.image.title": "gettext",
+    "org.opencontainers.image.url": "https://www.gnu.org/software/gettext/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "0.22.4"
+  }
+}

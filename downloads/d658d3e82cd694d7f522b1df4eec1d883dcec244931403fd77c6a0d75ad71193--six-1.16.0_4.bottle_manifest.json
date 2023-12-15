@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:83137dfa7d88c6037aa092a72d1fc88599c3b71e7b12c09c5ca40fb5d3b10a8b",
+      "size": 1891,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_4.all",
+        "sh.brew.bottle.digest": "af0e594f44ac758201a84eda10f5eec0e7958ac67c219c6a09165eb18ac79797",
+        "sh.brew.bottle.size": "32158",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.14-52-g8f7e06a\",\"changed_files\":[],\"source_modified_time\":1620224296,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-10-07",
+    "org.opencontainers.image.description": "Python 2 and 3 compatibility utilities",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/six",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "1.16.0_4",
+    "org.opencontainers.image.revision": "c6756d8a0bf6a2301a9ddfb89305327818bcf741",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/c6756d8a0bf6a2301a9ddfb89305327818bcf741/Formula/s/six.rb",
+    "org.opencontainers.image.title": "six",
+    "org.opencontainers.image.url": "https://github.com/benjaminp/six",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "1.16.0_4"
+  }
+}

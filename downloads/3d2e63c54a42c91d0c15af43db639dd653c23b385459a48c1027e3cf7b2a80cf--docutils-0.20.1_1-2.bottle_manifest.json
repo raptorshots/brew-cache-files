@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:165f6c9f8482203de2928ffb2ceeb5573b853c1bc149ad1f509f718debe08fbb",
+      "size": 2294,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.arm64_monterey.2",
+        "sh.brew.bottle.digest": "767da48c2d42fca594ee7684e0defa880d1449e0e3e97d53890442d6641e5984",
+        "sh.brew.bottle.size": "969215",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:516cd6f1aced3c61a11e740e7daeeb22e32c0e37b84b3245fb1f0c928e0e4c89",
+      "size": 2286,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.arm64_sonoma.2",
+        "sh.brew.bottle.digest": "fa9cbcc947ce1576e508a8dfe24ba0ef19141ee8e068f8ae2055179aa303b24d",
+        "sh.brew.bottle.size": "969231",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:82ecb23edf4a35bfd44fb19bf97e79a63eda73e8650528a2d72adc6140906ad3",
+      "size": 2291,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.arm64_ventura.2",
+        "sh.brew.bottle.digest": "cba04ed0253c9a19fd605e2f8366797f612d3744d7899467307eac1394cf11ed",
+        "sh.brew.bottle.size": "969231",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a058bf41cb9869bbe9fa18416c6f314e5df31053c70b89c6d5ab4c7cc30ac6d1",
+      "size": 2278,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.monterey.2",
+        "sh.brew.bottle.digest": "99112fc17faff857416bb41fe2c5d14c7e1b3d0dd86d9f86bffb7ab34aefd01f",
+        "sh.brew.bottle.size": "969228",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:316f522fa110b4b8780e6d7fece342014ae30e64def3c0f078f1fa858da6cacf",
+      "size": 2270,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.sonoma.2",
+        "sh.brew.bottle.digest": "5cf8ababce162145e3bc7ac9332787d4f16dc19666970555937585e03c5fe8b7",
+        "sh.brew.bottle.size": "969225",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:5bbb1c0bf2405b9b03e7155bcba07f990ede3ff63a586822e54dd658f7a5b326",
+      "size": 2275,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.ventura.2",
+        "sh.brew.bottle.digest": "88b0625f0e9f7f87254ee88e97de0248f6c21faac2de980cd00b33ab262f38d3",
+        "sh.brew.bottle.size": "969230",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:cc4501338e2e9cfdae637abf24b83cdea8a375c6dd4106bd95f49639d6c60d70",
+      "size": 2354,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.20.1_1.x86_64_linux.2",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "480c0b72303e68588d67dd37efc0b55d3971f67561c765f3947d1af96103d790",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "969240",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[\"bin/docutils\",\"bin/rst2html.py\",\"bin/rst2html4.py\",\"bin/rst2html5.py\",\"bin/rst2latex.py\",\"bin/rst2man.py\",\"bin/rst2odt.py\",\"bin/rst2odt_prepstyles.py\",\"bin/rst2pseudoxml.py\",\"bin/rst2s5.py\",\"bin/rst2xetex.py\",\"bin/rst2xml.py\",\"bin/rstpep2html.py\"],\"source_modified_time\":1684279436,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-12-11",
+    "org.opencontainers.image.description": "Text processing system for reStructuredText",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/docutils",
+    "org.opencontainers.image.license": "Public Domain and BSD-2-Clause and GPL-3.0-or-later and Python-2.0",
+    "org.opencontainers.image.ref.name": "0.20.1_1-2",
+    "org.opencontainers.image.revision": "0a2d02251458832db6925b32be35950989d14c33",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/0a2d02251458832db6925b32be35950989d14c33/Formula/d/docutils.rb",
+    "org.opencontainers.image.title": "docutils",
+    "org.opencontainers.image.url": "https://docutils.sourceforge.io",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "0.20.1_1"
+  }
+}

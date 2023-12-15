@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:22664d97248c0870a52ea2e318537b15448e2f758f4e7cfaa602e409da5c3a76",
+      "size": 2341,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "0ab7f054fd0b01975be1893437235c61e2761ed9fb54e7880a854ca37809d57e",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "205879",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-26-ge439725\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true},{\"full_name\":\"zlib\",\"version\":\"1.3\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"broadwell\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:2392f9633ea78fb8a6db07d4eaef9f988566f63d3f18ed23c61554a21dc59b42",
+      "size": 2188,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.monterey",
+        "sh.brew.bottle.digest": "b942d0dee2c95a00b3fd080c50d1f0d715448ae3147bbb18cf5adb758cb63798",
+        "sh.brew.bottle.size": "174200",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-34-g9677a9a\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:6c611d61659ec68247785a19983a3e60b2341ce6d926d0caf3aed31c56b96b11",
+      "size": 2185,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.ventura",
+        "sh.brew.bottle.digest": "b27c24194ded10a47b93a379efae8ead4b04a6d3e8e34bc3a70942380b1ed68b",
+        "sh.brew.bottle.size": "172019",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-34-g9677a9a\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.3\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.0.0.1.1679647830\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:64cb8102da92063a5d967fce620538850c4009e87e3341a5182ce0812005937d",
+      "size": 2201,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.arm64_ventura",
+        "sh.brew.bottle.digest": "1dec5a57d0173f54cb1f38efb6bfbd0bc416bdb298289ebaac1dce3a41bdd6fb",
+        "sh.brew.bottle.size": "181155",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-26-ge439725\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.3\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.0.0.1.1679647830\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:3531b4e8829866a7236c3498bf6b01e01881c1496f84901a37a54731db1605e0",
+      "size": 2220,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.arm64_big_sur",
+        "sh.brew.bottle.digest": "b548e2d6b53bc0d03bdc73fb01a175c8ef2338f80a3ca0c1963af625f0baa523",
+        "sh.brew.bottle.size": "184826",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-26-ge439725\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d6aa8b57a5a7052821d1a7f23c39e7a9f8d2f6c1881ca7eced3e1e655a179fdc",
+      "size": 2204,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.arm64_monterey",
+        "sh.brew.bottle.digest": "5151b4682fa17d931e6383dd06b584d822df647fd454b22ddf498525606cff39",
+        "sh.brew.bottle.size": "180731",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-26-ge439725\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:3cb92d68f1fe172dea401cdd5aaec060266b74305627a54178cb8b30caad49ff",
+      "size": 2187,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.big_sur",
+        "sh.brew.bottle.digest": "794073edbf7402af7750b21fbcb44c5df038d6d3606450bd6a453dc92b6b3b09",
+        "sh.brew.bottle.size": "174247",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.8-34-g9677a9a\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:9442a1bf265b73bb8aef21c0847e49b0775993ac68819e3dc211cec2d8d95acd",
+      "size": 2197,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.arm64_sonoma",
+        "sh.brew.bottle.digest": "fc5748b95d47c39bb4d633090cc0a7b5fe90bda5ef163fa5b8809272c9bf4618",
+        "sh.brew.bottle.size": "181919",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.11-17-g24de357\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7d4c3f40fa32dabc58e6f56de2ba682f582e9bd6cc439a6b35549682eb09d5da",
+      "size": 2181,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4-20151223_3.sonoma",
+        "sh.brew.bottle.digest": "5d019561203c8b1c1c1e69c48b3987d531c55fa806bd83f0a462b6b7da732f48",
+        "sh.brew.bottle.size": "171166",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.11-17-g24de357\",\"changed_files\":[\"lib/pkgconfig/librtmp.pc\"],\"source_modified_time\":1450897767,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-09-05",
+    "org.opencontainers.image.description": "Tool for downloading RTMP streaming media",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/rtmpdump",
+    "org.opencontainers.image.license": "GPL-2.0-or-later and LGPL-2.1-or-later",
+    "org.opencontainers.image.ref.name": "2.4-20151223_3",
+    "org.opencontainers.image.revision": "93a7849af6cd054b8ef91c7c8fd4e7e40e145af1",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/93a7849af6cd054b8ef91c7c8fd4e7e40e145af1/Formula/r/rtmpdump.rb",
+    "org.opencontainers.image.title": "rtmpdump",
+    "org.opencontainers.image.url": "https://rtmpdump.mplayerhq.hu/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "2.4-20151223_3"
+  }
+}

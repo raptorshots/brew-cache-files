@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:5129bca61cbeba833a1ec61ef0d1da3558fc04dd0db6ec145989b25a71aff64a",
+      "size": 1929,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.sonoma",
+        "sh.brew.bottle.digest": "abdca78dd8a8bd268053b3be195fe891bb74aef5502ab3a6b871ae0c6bb04540",
+        "sh.brew.bottle.size": "7672750",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:1b832b50f75b47bce26cf9c64786418ff8b2391d07aa15ca780501733abdbe52",
+      "size": 4613,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "fbbc56fccfcfcd34564feb7325567e2ff3638d3c609396a5c4aa13311c7b26e0",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "17911599",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"mpdecimal\",\"version\":\"2.5.1\",\"declared_directly\":false},{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.3\",\"declared_directly\":false},{\"full_name\":\"ncurses\",\"version\":\"6.4\",\"declared_directly\":false},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":false},{\"full_name\":\"zlib\",\"version\":\"1.3\",\"declared_directly\":false},{\"full_name\":\"sqlite\",\"version\":\"3.43.1\",\"declared_directly\":false},{\"full_name\":\"xz\",\"version\":\"5.4.4\",\"declared_directly\":false},{\"full_name\":\"bzip2\",\"version\":\"1.0.8\",\"declared_directly\":false},{\"full_name\":\"expat\",\"version\":\"2.5.0\",\"declared_directly\":false},{\"full_name\":\"libedit\",\"version\":\"20230828-3.1\",\"declared_directly\":false},{\"full_name\":\"libffi\",\"version\":\"3.4.4\",\"declared_directly\":false},{\"full_name\":\"libxcrypt\",\"version\":\"4.4.36\",\"declared_directly\":false},{\"full_name\":\"unzip\",\"version\":\"6.0\",\"declared_directly\":false},{\"full_name\":\"berkeley-db@5\",\"version\":\"5.3.28\",\"declared_directly\":false},{\"full_name\":\"krb5\",\"version\":\"1.21.2\",\"declared_directly\":false},{\"full_name\":\"libtirpc\",\"version\":\"1.3.3\",\"declared_directly\":false},{\"full_name\":\"libnsl\",\"version\":\"2.0.0\",\"declared_directly\":false},{\"full_name\":\"python@3.11\",\"version\":\"3.11.5\",\"declared_directly\":false},{\"full_name\":\"brotli\",\"version\":\"1.1.0\",\"declared_directly\":false},{\"full_name\":\"libunistring\",\"version\":\"1.1\",\"declared_directly\":false},{\"full_name\":\"libidn2\",\"version\":\"2.3.4\",\"declared_directly\":false},{\"full_name\":\"libnghttp2\",\"version\":\"1.56.0\",\"declared_directly\":false},{\"full_name\":\"libssh2\",\"version\":\"1.11.0\",\"declared_directly\":false},{\"full_name\":\"util-linux\",\"version\":\"2.39.2\",\"declared_directly\":false},{\"full_name\":\"openldap\",\"version\":\"2.6.6\",\"declared_directly\":false},{\"full_name\":\"rtmpdump\",\"version\":\"2.4-20151223\",\"declared_directly\":false},{\"full_name\":\"lz4\",\"version\":\"1.9.4\",\"declared_directly\":false},{\"full_name\":\"zstd\",\"version\":\"1.5.5\",\"declared_directly\":false},{\"full_name\":\"curl\",\"version\":\"8.3.0\",\"declared_directly\":false},{\"full_name\":\"icu4c\",\"version\":\"73.2\",\"declared_directly\":false},{\"full_name\":\"libxml2\",\"version\":\"2.11.5\",\"declared_directly\":false},{\"full_name\":\"swift\",\"version\":\"5.8.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:e8a15604f9b15e9c915233a9399ce8f79f38accd6c8aee8a100622439962f99e",
+      "size": 1937,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.monterey",
+        "sh.brew.bottle.digest": "13487d68a971dbe035019364e19d70641af2a18c06e52925d238685b384a7979",
+        "sh.brew.bottle.size": "8406176",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:aa2a147ee86f3d7b6a73daf0d478bfbd29f91d9b8d75f6de34ad32295afc64d2",
+      "size": 1945,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.arm64_sonoma",
+        "sh.brew.bottle.digest": "240ccda9de55d948d0c635798079074099bfcb73ffda41428900fdc748aeea7b",
+        "sh.brew.bottle.size": "7595036",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ae3a5930c5879e3ca75e00e6c0df399765950d3012f76428fa19530532e07945",
+      "size": 1950,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.arm64_ventura",
+        "sh.brew.bottle.digest": "7b7ceb7896c6833965cc4eac9001255d8adde6c5432045d5a8ab6aea8a9e81d9",
+        "sh.brew.bottle.size": "8520520",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:204769134ef2b6979c8328e839022cbd31c4da0d5941aa51cf945f9ab0cd1a48",
+      "size": 1934,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.ventura",
+        "sh.brew.bottle.digest": "be711c707bf3b49fa0dd6e2ae576b309aad620f9b56a2c6e7b1ac5cf35cf652a",
+        "sh.brew.bottle.size": "8558392",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:4cb8f2962dd3c778da666a13f6935045e6500b140addb54a444a6cc90d52ccd7",
+      "size": 1953,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.53.0.arm64_monterey",
+        "sh.brew.bottle.digest": "78c2a4c3f4a2f6847b484527b0f0f916da71e3ee29e49890fd44b63fe7b38e26",
+        "sh.brew.bottle.size": "8413244",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.13-16-g39f76d6\",\"changed_files\":[],\"source_modified_time\":1695740992,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-09-26",
+    "org.opencontainers.image.description": "Tool to enforce Swift style and conventions",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/swiftlint",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "0.53.0",
+    "org.opencontainers.image.revision": "9c9bb6a4bea52e9e16254a97d71a1ba338afff91",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/9c9bb6a4bea52e9e16254a97d71a1ba338afff91/Formula/s/swiftlint.rb",
+    "org.opencontainers.image.title": "swiftlint",
+    "org.opencontainers.image.url": "https://github.com/realm/SwiftLint",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "0.53.0"
+  }
+}

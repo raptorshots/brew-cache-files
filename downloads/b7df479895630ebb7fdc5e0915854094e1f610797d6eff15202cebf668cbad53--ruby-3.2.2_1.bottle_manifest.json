@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:545946034af0f70e312483fb8a7aa35e6879329199c81c8b258b9c894519949c",
+      "size": 2522,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.arm64_monterey",
+        "sh.brew.bottle.digest": "6730d64d415526ef41f3a2911be1ca901295cbd37ddc7efb243b3568e5620b01",
+        "sh.brew.bottle.size": "13559172",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-13-ga626253\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/arm64-darwin21/rbconfig.rb\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:3c4f7518db6acb43b6adb42e923063febbe85fff500a1aff96f02760be2c322b",
+      "size": 3156,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.monterey",
+        "sh.brew.bottle.digest": "8cf820914f34d82f6ae5b80a2eae7b75c133a5263e6ca34338a161542878c413",
+        "sh.brew.bottle.size": "13529344",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"ChangeLog\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1.ronn\",\"lib/ruby/3.2.0/mkmf.rb\",\"lib/ruby/3.2.0/pathname.rb\",\"lib/ruby/3.2.0/rubygems/basic_specification.rb\",\"lib/ruby/3.2.0/rubygems/installer.rb\",\"lib/ruby/3.2.0/rubygems/specification.rb\",\"lib/ruby/3.2.0/x86_64-darwin21/rbconfig.rb\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/kernel.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/rb_config.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/etc/0/etc.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/fileutils/0/fileutils.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/pathname/0/pathname.rbs\",\"share/man/man1/ruby.1\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:b32dcc674b7b301c4d88d8560a563ed46d2a2846e984d4b792ea5bdbb1f04b03",
+      "size": 3153,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.ventura",
+        "sh.brew.bottle.digest": "cc9b5b6ccc54d8182f0ab699b23cb810fd7cc323a1c8a1aa7c257aa93313cc4c",
+        "sh.brew.bottle.size": "13515368",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"ChangeLog\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1.ronn\",\"lib/ruby/3.2.0/mkmf.rb\",\"lib/ruby/3.2.0/pathname.rb\",\"lib/ruby/3.2.0/rubygems/basic_specification.rb\",\"lib/ruby/3.2.0/rubygems/installer.rb\",\"lib/ruby/3.2.0/rubygems/specification.rb\",\"lib/ruby/3.2.0/x86_64-darwin22/rbconfig.rb\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/kernel.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/rb_config.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/etc/0/etc.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/fileutils/0/fileutils.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/pathname/0/pathname.rbs\",\"share/man/man1/ruby.1\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.3\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.0.0.1.1679647830\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:13c1664532cd91eaff216dc6fa4780cd7b0eef0519961ec24d8e21d1dc4cd538",
+      "size": 3155,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.big_sur",
+        "sh.brew.bottle.digest": "937d024ebfab8a3f43ec18a24a626ae2a29a4127c6712b138cea786aaf2c413c",
+        "sh.brew.bottle.size": "13526558",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"ChangeLog\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1.ronn\",\"lib/ruby/3.2.0/mkmf.rb\",\"lib/ruby/3.2.0/pathname.rb\",\"lib/ruby/3.2.0/rubygems/basic_specification.rb\",\"lib/ruby/3.2.0/rubygems/installer.rb\",\"lib/ruby/3.2.0/rubygems/specification.rb\",\"lib/ruby/3.2.0/x86_64-darwin20/rbconfig.rb\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/kernel.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/rb_config.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/etc/0/etc.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/fileutils/0/fileutils.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/pathname/0/pathname.rbs\",\"share/man/man1/ruby.1\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:71e876b5183b8ea7cb70bc9e1555fc361694dbb159bee5ff0c8ab3165fbf0819",
+      "size": 2538,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.arm64_big_sur",
+        "sh.brew.bottle.digest": "7a297337dfa9a2afc204e8b3302dc5a25823653fed95c49120b9c87241600e91",
+        "sh.brew.bottle.size": "13564621",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/arm64-darwin20/rbconfig.rb\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ed37fcb00d9894488a01402f143a4222949b3f7c601c0256c2130678d71d13b2",
+      "size": 2519,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.arm64_ventura",
+        "sh.brew.bottle.digest": "dd4528e4e2faddab7c90f7a1849b465d190c5d06f2c95a96ec779aca69da9d16",
+        "sh.brew.bottle.size": "13556916",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/arm64-darwin22/rbconfig.rb\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.3\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.0.0.1.1679647830\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:efe0af885d551b057741f79f8ad2eb018ffdac0983ac83f5a0341d6ae9d60c94",
+      "size": 2966,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "5.15.0-1039-azure"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "c93cfb32aa6168aefa19725dfbe005491fad4ad304c5a2181ce110d291850d42",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "15391099",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.24-11-gdf92777\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/x86_64-linux/rbconfig.rb\"],\"source_modified_time\":1680174391,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-05-30\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.1\",\"declared_directly\":true},{\"full_name\":\"ncurses\",\"version\":\"6.4\",\"declared_directly\":false},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true},{\"full_name\":\"gperf\",\"version\":\"3.1\",\"declared_directly\":true},{\"full_name\":\"libffi\",\"version\":\"3.4.4\",\"declared_directly\":true},{\"full_name\":\"libxcrypt\",\"version\":\"4.4.35\",\"declared_directly\":true},{\"full_name\":\"zlib\",\"version\":\"1.2.13\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"5.15.0-1039-azure\",\"cpu_family\":\"icelake\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:93c38e7293fe851029d57f9774fa5267eae7a6b6063eb246a6de65f28c057c1a",
+      "size": 2514,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.arm64_sonoma",
+        "sh.brew.bottle.digest": "6a1a2f3c6404c532cce812679b55469831214ed526344cdef8913c0457c2a32f",
+        "sh.brew.bottle.size": "13535159",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.11-38-gaa2a77b\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/arm64-darwin23/rbconfig.rb\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:596f21d6901e54cc95ae286982fcaa1b19cfa40e9630544f0107b1ef98b264e8",
+      "size": 3148,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.2.2_1.sonoma",
+        "sh.brew.bottle.digest": "2bf8261ae35d7d8115ae57bc5a4233fc60729199c887285358bc66e3039069f9",
+        "sh.brew.bottle.size": "13507484",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.11-38-gaa2a77b\",\"changed_files\":[\"bin/bundle\",\"bin/bundler\",\"bin/erb\",\"bin/gem\",\"bin/irb\",\"bin/racc\",\"bin/rake\",\"bin/rbs\",\"bin/rdbg\",\"bin/rdoc\",\"bin/ri\",\"bin/typeprof\",\"libexec/gembin/bundle\",\"ChangeLog\",\"lib/pkgconfig/ruby-3.2.pc\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1\",\"lib/ruby/3.2.0/bundler/man/bundle-config.1.ronn\",\"lib/ruby/3.2.0/mkmf.rb\",\"lib/ruby/3.2.0/pathname.rb\",\"lib/ruby/3.2.0/rubygems/basic_specification.rb\",\"lib/ruby/3.2.0/rubygems/installer.rb\",\"lib/ruby/3.2.0/rubygems/specification.rb\",\"lib/ruby/3.2.0/x86_64-darwin23/rbconfig.rb\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/kernel.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core/rb_config.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/etc/0/etc.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/fileutils/0/fileutils.rbs\",\"lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib/pathname/0/pathname.rbs\",\"share/man/man1/ruby.1\"],\"source_modified_time\":1680174391,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libyaml\",\"version\":\"0.2.5\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-08-22\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.1.2\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-06-20",
+    "org.opencontainers.image.description": "Powerful, clean, object-oriented scripting language",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/ruby",
+    "org.opencontainers.image.license": "Ruby",
+    "org.opencontainers.image.ref.name": "3.2.2_1",
+    "org.opencontainers.image.revision": "9ecc44cddcde0e3af0a2c8132ef71689103e31a5",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/9ecc44cddcde0e3af0a2c8132ef71689103e31a5/Formula/ruby.rb",
+    "org.opencontainers.image.title": "ruby",
+    "org.opencontainers.image.url": "https://www.ruby-lang.org/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "3.2.2_1"
+  }
+}

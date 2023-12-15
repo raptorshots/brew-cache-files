@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:022d9b693cd5e67a49e5d9799f2918bca045e82af7314f0e376970702e1f834d",
+      "size": 1931,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.monterey",
+        "sh.brew.bottle.digest": "720bec651f4930bbce2da6bcb2b869e8faa4ec8a8bba717207e0c8ce63c562cd",
+        "sh.brew.bottle.size": "218984",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a90643d031ec866d86cb1190051173e2c4c6ce946ebd0e8b903a28f674111d22",
+      "size": 1944,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.arm64_ventura",
+        "sh.brew.bottle.digest": "73d3d70d47edc13dc862954d248fad4df7ca33e239dbe3ef09d3f16551bfe6bd",
+        "sh.brew.bottle.size": "222089",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:0d5a767d0c589970ca3a54c3ad3764920e339da965914af77b6a34dee04d550a",
+      "size": 1928,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.ventura",
+        "sh.brew.bottle.digest": "aade94da572c92514434f1afe7617da53a0f777fcd06dece3f4ec59f26b5b0fe",
+        "sh.brew.bottle.size": "220413",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:fb61ffdcbf832fd4bc986d8ee51d3d22a761c997aaee79c7ed2bd10a41b21303",
+      "size": 1939,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.arm64_sonoma",
+        "sh.brew.bottle.digest": "0aea68bfb61161efd6c7f36fa64e48406a716e93dcb2bc362ac443fd802914a6",
+        "sh.brew.bottle.size": "221573",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7db8bf457c05ef20ec86eda2777d507d95aec8dc729d489a7290648138a04067",
+      "size": 1947,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.arm64_monterey",
+        "sh.brew.bottle.digest": "3b689c48ebac8bae3b73849137d30804d8ed852a80152d3a7e879fe05c428f8c",
+        "sh.brew.bottle.size": "220805",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:bffb72e82d2de851106b8bbd0e47a7f38010f6493d161b31342057a8a5921610",
+      "size": 2012,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "1723ddcaacc3ad10052a0cb4e8cc1644f1ddfd6b51a70a3f9a57c98b247134a4",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "253784",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"broadwell\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:bd858e7636e9ae8a7f46f9cd9f09651e1100ff2f2f0711367be2b600a21dfcaf",
+      "size": 1923,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.58.0.sonoma",
+        "sh.brew.bottle.digest": "14a08800cac734d4b2722864ba2b03ae786aa5dfee3d224ee71b2c8bd88b16c4",
+        "sh.brew.bottle.size": "219832",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.17-25-g93ec808\",\"changed_files\":[\"lib/pkgconfig/libnghttp2.pc\"],\"source_modified_time\":1698409894,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-10-27",
+    "org.opencontainers.image.description": "HTTP/2 C Library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libnghttp2",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "1.58.0",
+    "org.opencontainers.image.revision": "6a82fffb43d7ae4a6fd978cc67b28f9f9aeba6c3",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/6a82fffb43d7ae4a6fd978cc67b28f9f9aeba6c3/Formula/lib/libnghttp2.rb",
+    "org.opencontainers.image.title": "libnghttp2",
+    "org.opencontainers.image.url": "https://nghttp2.org/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "1.58.0"
+  }
+}

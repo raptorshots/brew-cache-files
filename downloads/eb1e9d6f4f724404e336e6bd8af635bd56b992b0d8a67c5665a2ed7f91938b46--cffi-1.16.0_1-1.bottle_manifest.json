@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:df4c2716be60fe7bed4375ae45db0a8f24a3a3c4d1d1c82f6de81f3f1b7bc023",
+      "size": 2194,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.arm64_monterey.1",
+        "sh.brew.bottle.digest": "1496498ac52787b4ef0bcb1293febd7ba5cad07a4b4ab2c088c9e67ae1085d69",
+        "sh.brew.bottle.size": "344783",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:0de72c43caabfa9e1ef7269071e8d2c45f44470313bfde487a3b8b61d9853087",
+      "size": 2186,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.arm64_sonoma.1",
+        "sh.brew.bottle.digest": "2ffe080b9d696ac03d1229276be008dea6f403d395b3c2b3ca9bffa78e50e2f8",
+        "sh.brew.bottle.size": "342981",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"dunno\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:aa227a68d7e25b2ed8af28606a3671a7b0365874bb955d446798bbf8436bf1f9",
+      "size": 2191,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.arm64_ventura.1",
+        "sh.brew.bottle.digest": "4e33d746c4e8ee49df366aae6c6c8f3f58fe917bc3b7d4363d9b684ac8e7a0db",
+        "sh.brew.bottle.size": "344197",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"dunno\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:b04919930d4c3d9252434b9cdceac0e5226726e7a8f10e71b34bf3dd58e8f9d4",
+      "size": 2178,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.monterey.1",
+        "sh.brew.bottle.digest": "fc90dcf157fd659a2b41970f945754c21eb98647ee83259f2e64bbc3bd41e1cd",
+        "sh.brew.bottle.size": "347951",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:f388a5a65c9ad8bf3cabfe1a090bb22629691c05382c6615b8d091509ef81c7c",
+      "size": 2170,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.sonoma.1",
+        "sh.brew.bottle.digest": "825ca5c9bf25ca28db6cd0d7ddb088cb66aa86dc69f85e24775e2ed526ebd9ac",
+        "sh.brew.bottle.size": "345206",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14\",\"cpu_family\":\"penryn\",\"xcode\":\"15.0\",\"clt\":\"15.0.0.0.1.1694021235\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7d8ca44da8535f8616fddf4b43473c59e285ac69368ee0261500dcd05a71fcac",
+      "size": 2175,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.ventura.1",
+        "sh.brew.bottle.digest": "0bd893c328706682088abca867d52c40b8a9e162e65c5f067647cf3fe4171821",
+        "sh.brew.bottle.size": "345627",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.5\",\"cpu_family\":\"penryn\",\"xcode\":\"14.3\",\"clt\":\"14.3.1.0.1.1683849156\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7040605288d1f6a811b11f6692cfd6a5e977990420a35be22072bf14482e1bc7",
+      "size": 2371,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.3"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.16.0_1.x86_64_linux.1",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "75989e551855be635a6ee550fd5ef2f02738ed44fee5eef0393e688e5489d007",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "892663",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.1.25-10-g4c20298\",\"changed_files\":[],\"source_modified_time\":1695922997,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"pycparser\",\"version\":\"2.21\",\"revision\":1,\"pkg_version\":\"2.21_1\",\"declared_directly\":true},{\"full_name\":\"python-setuptools\",\"version\":\"69.0.2\",\"revision\":0,\"pkg_version\":\"69.0.2\",\"declared_directly\":true},{\"full_name\":\"libffi\",\"version\":\"3.4.4\",\"revision\":0,\"pkg_version\":\"3.4.4\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.3\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-12-11",
+    "org.opencontainers.image.description": "C Foreign Function Interface for Python",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/cffi",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "1.16.0_1-1",
+    "org.opencontainers.image.revision": "0a2d02251458832db6925b32be35950989d14c33",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/0a2d02251458832db6925b32be35950989d14c33/Formula/c/cffi.rb",
+    "org.opencontainers.image.title": "cffi",
+    "org.opencontainers.image.url": "https://cffi.readthedocs.io/en/latest/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "1.16.0_1"
+  }
+}
